@@ -14,3 +14,6 @@ Install dependencies: npm i
 Run npm start
 
 Use: Just paste the link you need to shorten and click on generate button the click will be ready and you are good to go
+
+
+created by Dinesh Nayak
